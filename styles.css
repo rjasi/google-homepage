@@ -83,3 +83,38 @@
 .center-items{
 	text-align: center;
 }
+
+footer{
+	background-color: #d3d3d3; 
+	height:40px;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	margin-left: -10px;
+
+}
+
+
+
+.bottom-left{
+	display: inline-block;
+	margin: 10px;
+}
+
+footer span{
+	margin-left: 10px;
+
+}
+
+footer span:hover{
+	text-decoration: underline;
+}
+
+.bottom-right{
+	float: right;
+	margin: 10px;
+}
+

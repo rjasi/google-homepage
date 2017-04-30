@@ -42,7 +42,22 @@
 	</body>
 
 	<footer>
+
+
+		<div class="bottom-left">
+			<span>Advertising</span>
+			<span>Business</span>
+			<span>About</span>
+
+		</div>
+
+		<div class="bottom-right">
+			<span>Privacy</span>
+			<span>Terms</span>
+			<span>Settings</span>
+		</div>
 		
+
 	</footer>
 
 </html>
