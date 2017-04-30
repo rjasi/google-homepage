@@ -3,8 +3,20 @@
 <html>
 	<head>
 		<title>Google</title>
+		<link rel="stylesheet" type="text/css" href="styles.css" title="style">
 	</head>
 	<body>
+	<div class="navbar">
+    	<span>Gmail</span>
+    	<span>Images</span>
+    	<span>Squares</span>
+    	<span>Bell</span>
+    	<span>R</span>
+	</div>
+
+	
+
+		<p>efrfr</p>
 		<img src="logo.png" width='500' hight='500'>
 
 		<form action="#" method="POST" name="my_form">
@@ -14,6 +26,8 @@
 
 	</body>
 
-
+	<footer>
+		
+	</footer>
 
 </html>
