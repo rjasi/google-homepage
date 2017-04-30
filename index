@@ -1,1 +1,19 @@
 <!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Google</title>
+	</head>
+	<body>
+		<img src="logo.png" width='500' hight='500'>
+
+		<form action="#" method="POST" name="my_form">
+			
+				<input type="text" name="searchField"><br>
+		</form>
+
+	</body>
+
+
+
+</html>
