@@ -5,24 +5,29 @@
 		<title>Google</title>
 		<link rel="stylesheet" type="text/css" href="styles.css" title="style">
 	</head>
+
 	<body>
-	<div class="navbar">
-    	<span>Gmail</span>
-    	<span>Images</span>
-    	<span>Squares</span>
-    	<span>Bell</span>
-    	<span>R</span>
-	</div>
 
-	
+		<div class="navbar">
+	 	    
+	    	<span>Gmail</span>
+	    	<span>Images</span>
+	    	<span>Squares</span>
+	    	<span>Bell</span>
 
-		<p>efrfr</p>
-		<img src="logo.png" width='500' hight='500'>
+	    	<span><img src="https://lh3.googleusercontent.com/-3KuY2w6b7Ss/AAAAAAAAAAI/AAAAAAAAAAA/AHalGhr-9R4SmvW2w-EcdEJVcS4JqxTMUA/s32-c-mo/photo.jpg"></span>
+		</div>
 
-		<form action="#" method="POST" name="my_form">
-			
-				<input type="text" name="searchField"><br>
-		</form>
+		
+
+		<div class="center-items">
+			<img src="logo.png" width='250' hight='250'>
+
+			<form action="#" method="POST" name="my_form">
+					<input type="text" name="searchField"><br>
+			</form>
+		</div>
+
 
 	</body>
 

@@ -1,13 +1,44 @@
 
+.navbar img{	
+	float: right;
+	border-radius: 20px 20px 20px 20px;
+	transform: translateY(-5px);
 
-.navbar{
+}
+
+.navbar {
 	direction: rtl;	
+	margin-top: 10px;
+
 
 }
 
-span:hover{
+
+.navbar span:hover {
 	text-decoration: underline;
+}
+
+.navbar span{
+	font-size:15px; 
+	margin: 10px;
+
+}
+
+.center-items input[type="text"]{
+	width:500px;
+	height: 25px;
+	margin: 0 auto;
+	display: block;
 
 
 }
+
+.center-items img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+
 
