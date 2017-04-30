@@ -6,16 +6,19 @@
 		<link rel="stylesheet" type="text/css" href="styles.css" title="style">
 	</head>
 
+		
+
+
 	<body>
 
-		<div class="navbar">
-	 	    
+		<div class="navbar">    
 	    	<span>Gmail</span>
 	    	<span>Images</span>
-	    	<span ><img id="r-icon" src="R.jpg"></span>
+	    	<span ><img class="r-icon" src="R.jpg"></span>
 	    	<span><img class="bell-icon" src="bell.png" width='10' hight='5'></span>
 	    	<span ><img class="apps-icon" src="apps-icon.jpg" width='20' hight='20'></span>
 		</div>
+
 
 		
 
@@ -23,8 +26,16 @@
 			<img src="logo.png" width='250' hight='250'>
 
 			<form action="#" method="POST" name="my_form">
-					<input type="text" name="searchField"><br>
+				<input type="text" name="searchField"><br>
+
+				<div class="buttons">
+					<input type="button" name="searchButton" class="searchB" value="Google Search">
+					<input type="button" name="luckyButton" class="luckyB" value="I'm Feeling lucky">
+				</div>
+
 			</form>
+
+
 		</div>
 
 
