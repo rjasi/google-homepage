@@ -12,10 +12,9 @@
 	 	    
 	    	<span>Gmail</span>
 	    	<span>Images</span>
-	    	<span>Squares</span>
-	    	<span>Bell</span>
-
-	    	<span><img src="https://lh3.googleusercontent.com/-3KuY2w6b7Ss/AAAAAAAAAAI/AAAAAAAAAAA/AHalGhr-9R4SmvW2w-EcdEJVcS4JqxTMUA/s32-c-mo/photo.jpg"></span>
+	    	<span ><img id="r-icon" src="R.jpg"></span>
+	    	<span><img class="bell-icon" src="bell.png" width='10' hight='5'></span>
+	    	<span ><img class="apps-icon" src="apps-icon.jpg" width='20' hight='20'></span>
 		</div>
 
 		
